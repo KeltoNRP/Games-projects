@@ -1,0 +1,9 @@
+Projetos de jogos inacabados que foram perdidos:
+
+-Jogo de plataforma onde o personagem era um simples morador da favela que treinou para ser um ninja e lutar contra os policiais corruptos.
+-Jogos de corrida em 3D (tipo Forza Horizon) e em 2D (tipo GTA 2).
+
+
+
+Atual projeto de jogo (2021):
+-Jogo de cartas multiplayer (tipo HearthStone), ainda finalizando a documentação do projeto.

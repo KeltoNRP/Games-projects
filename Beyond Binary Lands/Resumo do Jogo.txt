@@ -1,0 +1,12 @@
+Beyond Binary Lands é um jogo educacional onde se percorrem árvores binárias em 3 níveis:
+1. Inserir uma ilha (nó binário);
+2. Remover uma ilha (nó binário);
+3. Percorrer as ilhas (nós binários) em InOrdem, PósOrdem ou PréOrdem.
+
+No centro das ilhas existe cristais que é necessário ativá-los para indicar verde para correto e vermelho para incorreto, e com o cronômetro, claro!
+
+
+Equipe:
+Kelton - Dev. principal (Dev. líder e principais mecânicas)
+Rafael - Dev. secundário (Montagem de cenário, menu e polimentos)
+Leonardo - Designer (Todas as modelagens e artes)

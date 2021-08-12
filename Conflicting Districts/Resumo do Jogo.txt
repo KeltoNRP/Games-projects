@@ -1,0 +1,3 @@
+Conflicting Districts é um jogo FPS multiplayer, onde um time defende e outro ataca com 3 classes e seus equipamentos únicos conforme a classe selecionada.
+
+Inspirados em jogos como: Rainbow Six, BF4, Insurgency e COD Warzone.
